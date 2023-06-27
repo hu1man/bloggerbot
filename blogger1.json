@@ -1,0 +1,10 @@
+{
+    "client_id": "1083474885514-1rn5skc4u9oaoagd7n26ocucitbpdhge.apps.googleusercontent.com",
+    "client_secret": "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",
+    "refresh_token": "1//04KUVKi4t-LV8CgYIARAAGAQSNwF-L9Ir8Lck4H9d5jv-sWekybiTO4RTqsSXstjkfyU8n2W0NhO9y9KRwzsNg93EWMZVxSDRg3Y",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "scopes": [
+      "https://www.googleapis.com/auth/blogger.readonly"
+    ]
+}
+  
